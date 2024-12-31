@@ -1,2 +1,2 @@
-[![Laravel Web Installer](https://github.com/mtdvision/LaravelInstaller/assets/36804104/5fea5ade-7c97-43bb-b6a9-89cd8d2a0bdf)](https://laravel-installer.com)
+[![Laravel Web Installer](https://repository-images.githubusercontent.com/910392826/a345958f-53a3-451a-90d2-6e2b949d6c5f)](https://laravel-installer.com)
 
